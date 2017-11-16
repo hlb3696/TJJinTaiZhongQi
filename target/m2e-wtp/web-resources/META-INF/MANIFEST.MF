@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: TJJinTaiZhongQi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JF_Hao
+Implementation-Vendor-Id: TJJinTaiZhongQi
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
